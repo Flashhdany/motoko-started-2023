@@ -1,6 +1,6 @@
 ## What does this repository contain?
 
-`5 daily projects of initiation in Internet Computing with Motoko`
+5 daily projects of initiation in Internet Computing with Motoko
 
 ## Testing
 
