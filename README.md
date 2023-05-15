@@ -1,3 +1,7 @@
+## What does this repository contain?
+
+`5 daily projects of initiation in Internet Computing with Motoko`
+
 ## Testing
 
 For running specs, on a terminal:
